@@ -13,7 +13,7 @@ Check out my [portfolio website](https://beltagy.netlify.app) to see some of my 
 
 ## 🔗 Connect
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/mohammed-beltagy-4311b725b/) for more information about my professional background and experience. Let's connect and collaborate!
+You can also find me on [LinkedIn](https://www.linkedin.com/in/imbeltagy/) for more information about my professional background and experience. Let's connect and collaborate!
 
 ## 🚀 Current Focus
 
