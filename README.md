@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Beltagy]
+# Hi there! 👋 I'm Beltagy
 
 I'm a front-end developer with a passion for creating beautiful and responsive web experiences. I specialize in HTML, CSS, JavaScript, Pug, Sass, and Gulp. Currently, I'm expanding my skill set by learning Bootstrap and ReactJS.
 
