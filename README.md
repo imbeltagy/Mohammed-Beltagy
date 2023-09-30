@@ -14,18 +14,3 @@ Check out my [portfolio website](https://beltagy.netlify.app) to see some of my 
 ## 🔗 Connect
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/imbeltagy/) for more information about my professional background and experience. Let's connect and collaborate!
-
-## 🚀 Current Focus
-
-Currently, I'm working on enhancing my social media presence and expanding my network. Additionally, I'm working on an exciting new project that aims to [briefly describe the project and its goals]. Stay tuned for updates!
-
-## 🌱 Future Plans
-
-In the near future, I plan to:
-
-- Continue learning and mastering Bootstrap and ReactJS.
-- Explore new frameworks and technologies to broaden my skill set.
-- Pursue job opportunities where I can contribute my expertise and learn from experienced professionals in the field.
-
-Feel free to reach out to me via [email](mailto:imbeltagy@gmail.com) if you have any questions, suggestions, or just want to connect!
-
